@@ -130,4 +130,5 @@ az functionapp keys list -n tenable-ctf -g ctf
 }
 ```
 The response looks like 
+<img width="971" alt="Capture" src="https://user-images.githubusercontent.com/21980161/173721044-51fa4e20-2ff6-4a2c-b22c-9a970209a1f9.PNG">
 
