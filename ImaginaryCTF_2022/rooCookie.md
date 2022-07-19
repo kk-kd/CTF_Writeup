@@ -7,7 +7,8 @@ Roo seems to have left his computer on, can you find his password?
 http://roocookie.chal.imaginaryctf.org
 
 ### Solution  
-\<pic here\>
+![rooCookie](https://user-images.githubusercontent.com/21980161/179693153-b68a69dd-6c41-433c-911a-f4f9523ea4d7.jpg)
+
 Insepct the source, we can easily find an encrypted token 
 ```html
 <script>
