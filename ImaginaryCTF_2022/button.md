@@ -9,8 +9,9 @@ http://button.chal.imaginaryctf.org
 ### Solution 
 
 Probably one of my favorite challs... (By that I mean it took me 2 min to solve but 2 days to realize what went on :/)
+![button](https://user-images.githubusercontent.com/21980161/179693061-ab968c7e-1cb9-44f4-adac-ecf83388673b.jpg)
 
-\<pic here\>  
+
 First impression: The page is (a bunch of) white (buttons). Naturally I thought one of them pointed to the real flag. After some search and replace, however, it was not the case. 
 
 Two days later, I realized there can be functions written but never called. `motSusfunclion` caught my eye. 
